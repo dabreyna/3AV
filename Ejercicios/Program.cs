@@ -8,7 +8,7 @@ namespace Ejercicios{
 
             Ejercicio1 saludar = new Ejercicio1();
 
-            saludar.saludo("Daniel Bruno");
+            saludar.saludo("Pedro");
         
         }
     }
