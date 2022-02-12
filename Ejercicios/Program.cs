@@ -7,8 +7,10 @@ namespace Ejercicios{
         public static void Main(string[] args){
 
             Ejercicio1 saludar = new Ejercicio1();
+            Console.WriteLine("Ingresa tu nombre: ");
+            string nombre = Console.ReadLine();
 
-            saludar.saludo("Pedro");
+            saludar.saludo(nombre);
         
         }
     }
