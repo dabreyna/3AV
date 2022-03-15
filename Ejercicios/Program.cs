@@ -24,9 +24,9 @@ namespace Ejercicios{
             //listaOperadores.operadores();
             //listaOperadores.operadoresAritmeticos();
 
-            Cadenas cadenas = new Cadenas();
+            Cadenas2 cadenas = new Cadenas2();
 
-            cadenas.Ejercicio1();
+            cadenas.Ejercicio2();
         }
     }
 

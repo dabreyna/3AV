@@ -46,8 +46,6 @@ namespace Ejercicios
             // }
 
 
-
-
             // if(cadena1.Equals(cadena3)){
             //     System.Console.WriteLine("Las 2 cadenas tienen el mismo contenido");
             // }else{
@@ -65,8 +63,9 @@ namespace Ejercicios
             string cadena2;
             // Subcadena
 
+            string cadena3 = cadena1.Substring(4);
             cadena2= cadena1.Substring(4,7);
-            System.Console.WriteLine(cadena1.ToUpper());
+            System.Console.WriteLine(cadena2);
           
 
 
