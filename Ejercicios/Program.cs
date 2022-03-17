@@ -24,9 +24,11 @@ namespace Ejercicios{
             //listaOperadores.operadores();
             //listaOperadores.operadoresAritmeticos();
 
-            Cadenas2 cadenas = new Cadenas2();
+            //Arreglos2 arreglos2 = new Arreglos2();
+            //arreglos2.Ejercicio1();
 
-            cadenas.Ejercicio2();
+            Gato gato = new Gato();
+            gato.jugar();
         }
     }
 
