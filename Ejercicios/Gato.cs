@@ -205,7 +205,7 @@ namespace Ejercicios
         }
 // jugador1 = O
 // jugador2 = X
-        public async void dibujaTablero(){
+        public void dibujaTablero(){
             // Limpiamos pantalla
             Console.Clear();
             Console.SetCursorPosition(0,0);
